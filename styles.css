@@ -58,6 +58,12 @@ ul{
     transform: translateY(-10px);
 }
 
+.footer{
+    text-align: center;
+    margin-top: 10px;
+    color: #ccc;
+    font-size: 13px;
+}
 
 
 
