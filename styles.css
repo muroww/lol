@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&display=swap');
+
+*{
+
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+
+.home{
+    background-color: rgb(0, 0, 0);
+    background-image: url(./img/background.png);
+}
+
+.home li {
+    margin-bottom: 1.36364em;
+}
+
+.home ul{
+    margin: 0;
+    
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+.text-button{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    
+}
+
+.text-button:hover{
+    background-color: #ccc;
+    color: black;
+}
+
+.nav-button{
+    text-align: center;
+    
+
+}
+
+.div-nav{
+    display: block;
+
+}
+
+.title{
+    color: white;
+    text-align: center;
+    margin-top: 300px;
+    transition: 250ms;
+}
+
+.title:hover{
+    transform: translateY(-10px);
+}
+
+
+
+
+
+
